@@ -166,3 +166,5 @@ cython_debug/
 /.secrets.yaml
 .DS_Store
 
+# flake8
+.flake8
